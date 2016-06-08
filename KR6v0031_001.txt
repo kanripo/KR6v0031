@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:14.302466
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:08
 #+TITLE: 大乘起世論
 #+PROPERTY: CBETA_ID W03n0024
 #+PROPERTY: ID KR6v0031
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 03, No. 024
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0031_W_001-0054a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 大乘起世論¶
 整理者　方廣錩¶
 ¶
 
@@ -43,10 +43,9 @@
 
 <pb:KR6v0031_W_001-0055a>¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 大乘起世論¶
+大乘起世論¶
 ¶
 
 詳真諦之門者，三世諸佛之要路也。亦有多覺而不¶
@@ -517,9 +516,9 @@
 「　為求大法闡大義，
 　普願眾生速受記。¶
 　廣開方便度泥黎，
-　疾證菩提無上智。
+　疾證菩提無上智。」
 #+END_VERSE
-」¶
+¶
 ¶
 大乘起世論一卷¶
 ¶
